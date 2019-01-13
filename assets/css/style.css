@@ -295,19 +295,19 @@ B. Helpers
 /* Bootstrap primary colors */
 
 .text-primary {
-    color: #00f !important;
+    color: #cd912a !important;
 }
 
 .bg-primary {
-    background-color: #00f !important;
+    background-color: #cd912a !important;
 }
 
 .border-primary {
-    border-color: #00f !important;
+    border-color: #cd912a !important;
 }
 
 .badge-primary {
-    background-color: #00f !important;
+    background-color: #cd912a !important;
 }
 
 .text-white .custom-checkbox .custom-control-label {
@@ -3512,7 +3512,7 @@ body.ts-full-screen-page {
 }
 
 .page-item.active .page-link:after {
-    border-color: #00f transparent transparent transparent;
+    border-color: #cd912a transparent transparent transparent;
 }
 
 /*-------------------------------------------
